@@ -180,6 +180,12 @@ forEach( x, naryFunction( log, 2 ) );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/ndarray-map`][@stdlib/ndarray/map]</span><span class="delimiter">: </span><span class="description">apply a callback to elements in an input ndarray and assign results to elements in a new output ndarray.</span>
+
 </section>
 
 <!-- /.related -->
@@ -257,6 +263,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [@stdlib/ndarray/ctor]: https://github.com/stdlib-js/ndarray-ctor
 
 <!-- <related-links> -->
+
+[@stdlib/ndarray/map]: https://github.com/stdlib-js/ndarray-map
 
 <!-- </related-links> -->
 

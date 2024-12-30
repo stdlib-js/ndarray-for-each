@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-22)
+## Unreleased (2024-12-30)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`4301694`](https://github.com/stdlib-js/stdlib/commit/43016945387e02d6396d33cb7134c62c977b7fd8) - **docs:** update related packages sections [(#4362)](https://github.com/stdlib-js/stdlib/pull/4362) _(by stdlib-bot)_
 -   [`ac735b1`](https://github.com/stdlib-js/stdlib/commit/ac735b1ee32aa14c3760551c3f9a4acf3843fd76) - **feat:** add `ndarray/for-each` [(#3926)](https://github.com/stdlib-js/stdlib/pull/3926) _(by Muhammad Haris, Athan Reines)_
 
 </details>
