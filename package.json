@@ -59,7 +59,6 @@
     "@stdlib/ndarray-base-strides2offset": "^0.2.2",
     "@stdlib/ndarray-base-unary-tiling-block-size": "^0.2.2",
     "@stdlib/ndarray-ctor": "^0.2.2",
-    "@stdlib/ndarray-for-each": "github:stdlib-js/ndarray-for-each#main",
     "@stdlib/ndarray-to-array": "^0.2.1",
     "@stdlib/random-array-discrete-uniform": "^0.2.1",
     "@stdlib/utils-nary-function": "^0.2.2",

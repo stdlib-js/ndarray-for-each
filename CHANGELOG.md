@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-28)
+## Unreleased (2026-01-14)
 
 <section class="features">
 
@@ -16,12 +16,25 @@
 
 <!-- /.features -->
 
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#8563](https://github.com/stdlib-js/stdlib/issues/8563)
+
+</section>
+
+<!-- /.issues -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`01c8ec0`](https://github.com/stdlib-js/stdlib/commit/01c8ec0123460ecfe8cd001e9f3cc2a67ff5b971) - **chore:** fix JavaScript lint errors [(#8565)](https://github.com/stdlib-js/stdlib/pull/8565) _(by kaushal-kumar-it)_
 -   [`c1805ef`](https://github.com/stdlib-js/stdlib/commit/c1805eface6e530b09bfc77c800b249e6b321b2c) - **test:** fix broken tests _(by Athan Reines)_
 -   [`7ac3d7d`](https://github.com/stdlib-js/stdlib/commit/7ac3d7d0dbf2202eb1b1494ea91825fb46725df4) - **test:** remove console statements _(by Athan Reines)_
 -   [`f3198d2`](https://github.com/stdlib-js/stdlib/commit/f3198d2c29a5832a62b5438ea293af2d84006151) - **temp:** add console statements to debug on CI _(by Athan Reines)_
@@ -38,10 +51,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Muhammad Haris
+-   kaushal-kumar-it
 
 </section>
 
