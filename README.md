@@ -48,6 +48,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import forEach from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-for-each@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/ndarray-for-each/tags). For example,
+
+```javascript
 import forEach from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-for-each@v0.1.0-esm/index.mjs';
 ```
 
@@ -145,7 +150,7 @@ import ndarray from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-ctor@esm/inde
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@esm/index.mjs';
 import naryFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-nary-function@esm/index.mjs';
 import log from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log@esm/index.mjs';
-import forEach from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-for-each@v0.1.0-esm/index.mjs';
+import forEach from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-for-each@esm/index.mjs';
 
 var buffer = discreteUniform( 10, -100, 100, {
     'dtype': 'generic'
