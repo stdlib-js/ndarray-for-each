@@ -40,7 +40,7 @@
     "@stdlib/assert-is-function": "^0.2.3",
     "@stdlib/assert-is-ndarray-like": "^0.2.2",
     "@stdlib/ndarray-base-for-each": "^0.1.1",
-    "@stdlib/string-format": "^0.2.3",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.3",
     "@stdlib/types": "^0.4.3",
     "@stdlib/error-tools-fmtprodmsg": "^0.2.3"
   },
