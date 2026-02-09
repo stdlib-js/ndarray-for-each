@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import forEach from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-for-each@esm/index.mjs';
+import forEach from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-for-each@v0.1.1-esm/index.mjs';
 ```
 
 #### forEach( x, fcn\[, thisArg] )
@@ -145,7 +145,7 @@ import ndarray from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-ctor@esm/inde
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@esm/index.mjs';
 import naryFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-nary-function@esm/index.mjs';
 import log from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log@esm/index.mjs';
-import forEach from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-for-each@esm/index.mjs';
+import forEach from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-for-each@v0.1.1-esm/index.mjs';
 
 var buffer = discreteUniform( 10, -100, 100, {
     'dtype': 'generic'
